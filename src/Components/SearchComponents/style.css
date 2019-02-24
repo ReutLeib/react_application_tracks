@@ -1,0 +1,73 @@
+.jumbotron{
+    height: 100vh;
+    background: #000 url("https://i.pinimg.com/originals/89/ca/82/89ca82eaa6ad3b9f005ad52432f2d719.jpg") no-repeat bottom center;
+    background-size: cover;
+}
+
+
+form input:focus , .form-control:focus , form select:focus{
+	outline: 0;
+	outline-offset:0;
+	box-shadow: none;
+	border:0;
+}
+
+.mainPage-form{
+	border: 3px solid #28374669;
+	background: #11355aab;
+	position: relative;
+	top: 30%;
+}
+.full-height{
+	height: 100%;
+}
+
+.backgroundBlue{
+  background: #11355a !important;
+}
+
+.btnGreen{
+  background: #38C882;
+}
+
+/*found in https://codepen.io/freoted/pen/WGvxmN*/
+
+input[type=range] {
+  -webkit-appearance: none; /*Hides the slider so that custom slider can be made */
+  background: transparent;  /*Otherwise white in Chrome*/ 
+}
+
+input[type=range]:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+  height: 11px;
+  background: #38C882;
+  margin-bottom: 1rem !important;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background: #ffffff;
+  /*cursor: pointer;*/
+  margin-top: -6px; 
+  /*box-shadow: inset 0px 1px 3px rgba(0,0,0,0.9); You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  /*width: 100%;*/
+  height: 11px;
+  /*cursor: pointer;*/
+  background: #38C882;
+  border-radius: 6px;
+  /*box-shadow: inset 0px 1px 3px rgba(0,0,0,0.9);*/
+}
+
+/*icons:*/
+.iconSearchForm{
+  width: 19px;
+  height: 13px;
+}
+

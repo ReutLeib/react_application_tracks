@@ -1,0 +1,364 @@
+[
+  {
+     "Departure":{
+      "from": "ישראל",
+      "to": "רודוס",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"03:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "455"
+    },
+    "Arrival":{
+       "from": "רודוס",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "450"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  },
+    {
+     "Departure":{
+      "from": "מקסיקו",
+      "to": "פנמה",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"02:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "395"
+    },
+    "Arrival":{
+       "from": "פנמה",
+      "to": "מקסיקו",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "360"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "תאילנד",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"10:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"04:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "280"
+    },
+    "Arrival":{
+       "from": "תאילנד",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"16:00",
+      "airline":"ARKIA",
+      "duration":"04:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "340"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "גרמניה",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"03:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "420"
+    },
+    "Arrival":{
+       "from": "גרמניה",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "380"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "כריתים",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"09:00",
+      "returnTime":"11:30",
+      "airline":"ARKIA",
+      "duration":"02:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "320"
+    },
+    "Arrival":{
+       "from": "כריתים",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "410"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "רודוס",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"16:30",
+      "airline":"ARKIA",
+      "duration":"05:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "370"
+    },
+    "Arrival":{
+       "from": "רודוס",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"17:00",
+      "airline":"ARKIA",
+      "duration":"05:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "510"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "רודוס",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"14:30",
+      "airline":"AIR EUROPA",
+      "duration":"03:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "455"
+    },
+    "Arrival":{
+       "from": "רודוס",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"AIR EUROPA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "440"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  },
+    {
+     "Departure":{
+      "from": "מקסיקו",
+      "to": "פנמה",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"02:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "390"
+    },
+    "Arrival":{
+       "from": "פנמה",
+      "to": "מקסיקו",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "360"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "תאילנד",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"10:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"04:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "260"
+    },
+    "Arrival":{
+       "from": "תאילנד",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"16:00",
+      "airline":"ARKIA",
+      "duration":"04:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "330"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "גרמניה",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"14:30",
+      "airline":"ARKIA",
+      "duration":"03:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "410"
+    },
+    "Arrival":{
+       "from": "גרמניה",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "360"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "כריתים",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"09:00",
+      "returnTime":"11:30",
+      "airline":"ARKIA",
+      "duration":"02:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "300"
+    },
+    "Arrival":{
+       "from": "כריתים",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"15:00",
+      "airline":"ARKIA",
+      "duration":"03:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "400"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "2"
+  },
+    {
+     "Departure":{
+      "from": "ישראל",
+      "to": "רודוס",
+      "travelers": "8",
+      "type":"טיסה ישירה",
+      "leavingTime":"11:00",
+      "returnTime":"16:30",
+      "airline":"ARKIA",
+      "duration":"05:30",
+      "airportFrom": "TLV",
+      "airportTo": "BCN",
+      "price": "360"
+    },
+    "Arrival":{
+       "from": "רודוס",
+      "to": "ישראל",
+      "travelers": "7",
+      "type":"טיסה ישירה",
+      "leavingTime":"12:00",
+      "returnTime":"17:00",
+      "airline":"ARKIA",
+      "duration":"05:00",
+      "airportFrom": "BCN",
+      "airportTo": "TLV",
+      "price": "510"
+    },
+    "flight": "טיסה סדירה",
+    "placesLeft": "3"
+  }
+
+
+]
